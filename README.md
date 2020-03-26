@@ -41,6 +41,8 @@ One you're done, you have stopped the mapping node:
 ![Unlocalized](./src/images/RTAB-MAP_Database_Viewer.png)
 Note: The 6 closed loops
 
+You can download the rtabmap.db file produced here: https://drive.google.com/open?id=19wmurnAcIqim8H_t3Vv-GHZXGmpSZnBM
+
 After moving for a bit, the robot quickly localizes:
 
 |   Actual           |    Mapped     |
